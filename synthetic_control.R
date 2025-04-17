@@ -28,4 +28,4 @@ dataprep_modelo <- dataprep(
 
 # Ejecutar el modelo 
 
-synth.out <- synth(dataprep_modelo)
+synth(dataprep_modelo)
