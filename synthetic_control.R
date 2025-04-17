@@ -20,7 +20,7 @@ dataprep_modelo <- dataprep(
   predictors.op = "mean",                      
   time.predictors.prior = 2005:2011,           # Años previos a la polpúb
   dependent = "brecha_salarial",               # Variable de resultado
-  unit.variable = "unidad",                    # ID numérico de cada unidad
+  unit.variable = "unidad",                    
   time.variable = "anio",                     
   treatment.identifier = 5,                    # Núm asignado del estado tratado
   controls.identifier = c(1:4,6:10),           # Núm asignado de los controles(Edos no tratados)
