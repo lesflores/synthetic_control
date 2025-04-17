@@ -5,8 +5,6 @@
 
 # Fuente: https://cran.r-project.org/web/packages/Synth/Synth.pdf
 
-
-
 # install.packages("Synth")
 library(Synth)
 
