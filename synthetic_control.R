@@ -29,3 +29,4 @@ dataprep_modelo <- dataprep(
 # Ejecutar el modelo 
 
 synth(dataprep_modelo)
+
